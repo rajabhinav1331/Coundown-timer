@@ -1,0 +1,31 @@
+body{
+    background-color: aquamarine;
+}
+
+#main-container{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    flex-direction: column;
+    
+}
+
+
+#timer{
+    margin: 50px;
+}
+
+input{
+    width:50px;
+    height:30px;
+    
+}
+
+label{
+    font-size: larger;
+}
+
+#counter{
+    font-size: 50px;
+}
